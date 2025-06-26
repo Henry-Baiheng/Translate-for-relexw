@@ -1,4 +1,3 @@
-当然可以，以下是你可以直接复制粘贴到 GitHub 上的完整 README（含中英文、已根据你的要求调整，已明确说明仅汉化部分常用功能，并以 XMind 思维导图形式呈现）：
 # relexw 汉化说明书（非官方中文版）
 
 > **免责声明**
@@ -82,6 +81,7 @@
 ---
 
 **如有版权问题，请及时与我联系，我将第一时间下架相关内容。**
+
 *If there are any copyright concerns, please contact me and I will remove the content immediately.*
 
 ---
